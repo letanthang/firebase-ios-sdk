@@ -2,29 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>API_KEY</key>
-	<string>correct_api_key</string>
-	<key>TRACKING_ID</key>
-	<string>correct_tracking_id</string>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>correct_client_id</string>
+	<string>832897490799-ulo937ctuv7gguj62d44ptci9g6nnudv.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>correct_reversed_client_id</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>correct_android_client_id</string>
-	<key>GOOGLE_APP_ID</key>
-	<string>1:123:ios:123abc</string>
+	<string>com.googleusercontent.apps.832897490799-ulo937ctuv7gguj62d44ptci9g6nnudv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjnwN9ZNeu39-qyrKtCICF_wE-_VG1LYU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>correct_gcm_sender_id</string>
+	<string>832897490799</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.google.FirebaseSDKTests</string>
+	<string>com.thangcompany.fcm</string>
 	<key>PROJECT_ID</key>
-	<string>abc-xyz-123</string>
-	<key>DATABASE_URL</key>
-	<string>https://abc-xyz-123.firebaseio.com</string>
+	<string>project--6873070059517609782</string>
 	<key>STORAGE_BUCKET</key>
-	<string>project-id-123.storage.firebase.com</string>
+	<string>project--6873070059517609782.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:832897490799:ios:357fbcd0c8384662</string>
+	<key>DATABASE_URL</key>
+	<string>https://project--6873070059517609782.firebaseio.com</string>
 </dict>
 </plist>
